@@ -1,0 +1,42 @@
+{
+  "name": "pangu-cli",
+  "version": "0.1.0",
+  "description": "A command line tool for pangu.js",
+  "license": "MIT",
+  "repository": "akuma/pangu-cli",
+  "author": "Weijia Huang <ihuangwj@gmail.com>",
+  "bin": {
+    "pangu": "bin/cli.js"
+  },
+  "engines": {
+    "node": ">=6.0"
+  },
+  "scripts": {
+    "lint": "xo"
+  },
+  "files": [
+    "bin"
+  ],
+  "keywords": [
+    "cli",
+    "command",
+    "pangu",
+    "chinese",
+    "english",
+    "typeset"
+  ],
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.30.0",
+    "pangu": "^3.2.1"
+  },
+  "devDependencies": {
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "esnext": true,
+    "space": 2,
+    "semicolon": false
+  }
+}
