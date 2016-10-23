@@ -1,3 +1,3 @@
-# chinese-typesetter
+# pangu-cli
 
 > A command line tool for [pangu.js](https://github.com/vinta/pangu.js)
