@@ -28,11 +28,11 @@
   "dependencies": {
     "bluebird": "^3.4.6",
     "commander": "^2.9.0",
-    "fs-extra": "^1.0.0",
+    "fs-extra": "^3.0.1",
     "pangu": "^3.2.1"
   },
   "devDependencies": {
-    "xo": "^0.17.0"
+    "xo": "^0.18.2"
   },
   "xo": {
     "esnext": true,
