@@ -1,5 +1,7 @@
 # pangu-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/akuma/pangu-cli.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Dependency Status][david-image]][david-url]
 [![Dependency Status][david-dev-image]][david-dev-url]
